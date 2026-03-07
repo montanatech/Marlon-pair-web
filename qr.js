@@ -98,7 +98,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: " 𝖇𝖔𝖙 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
-thumbnailUrl: "https://i.ibb.co/6cBHT8tC/popkid.jpg",
+thumbnailUrl: "https://files.catbox.moe/aq85vi.jpg ",
 sourceUrl: "https://whatsapp.com/channel/0029Vb7cO7uFXUug71g8Y71z",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -134,7 +134,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: " 𝖒𝖉 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
-thumbnailUrl: "https://i.ibb.co/6cBHT8tC/popkid.jpg",
+thumbnailUrl: "https://files.catbox.moe/aq85vi.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb7cO7uFXUug71g8Y71z",
 mediaType: 2,
 renderLargerThumbnail: true,
